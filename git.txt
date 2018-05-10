@@ -4,3 +4,7 @@ Git is free software.
 Git is test.
 Git is control stytem.
 Git is control stytem2.
+Git is test checkout.
+Git remote add origin git@github.com:misswang931024/zhihui.
+Git push -u origin master.  First
+Git push origin master.
